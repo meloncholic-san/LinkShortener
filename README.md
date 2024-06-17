@@ -1,20 +1,19 @@
-# WebLinkShrinker
+# LinkShortener
 
-## Project Overview
+## Про проект
 
 Цей проект розроблено в рамках домашних завдань «Технологія розробки веб-додатків». Це веб-програма, яка скорочує URL-адреси та забезпечує зручний інтерфейс для керування ними.
 
-## Author
+## Автор
 
-**Panchenko Denis**
+**Панченко Денис**
 
-- **Group:** KV-32mp
-- **Faculty:** FAM
+- **Група:** КВ-32мп
 
-## Lab Works
+## Лабораторні роботи
 
 
-### Web Application Development Technology
+### Технології розробки WEB - додатків
 
 
 1. [Lab Work 1](https://docs.google.com/document/d/1eBmpXmZe8qkjatcnfJfWKnnoumhF4L6_BsW8mSHQ_kE/edit?usp=sharing)
