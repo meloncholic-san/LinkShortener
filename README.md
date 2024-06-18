@@ -16,9 +16,9 @@
 ### Технології розробки WEB - додатків
 
 
-1. [Lab Work 1](https://docs.google.com/document/d/1eBmpXmZe8qkjatcnfJfWKnnoumhF4L6_BsW8mSHQ_kE/edit?usp=sharing)
-2. [Lab Work 2](https://docs.google.com/document/d/1eWWa-pN45NHQ3wyEM7PdBn_ysjDAWXY4FZTiLwZJgIg/edit?usp=sharing)
-3. [Lab Work 3](https://docs.google.com/document/d/1EqUQ4oR_zdguyaCTRyI_GR3XJ5a7H3pZUjnP9D-Q7qc/edit?usp=sharing)
+1. [Lab Work 1](https://docs.google.com/document/d/1c0NWXGc5CbxMudneEEIbsn-IYrygieXd1nbatY0FPIQ/edit?usp=sharing)
+2. [Lab Work 2](https://docs.google.com/document/d/1X8an6SW-esjYKtjIWe4fxX4kF21VUQINNtaPQIxxfuE/edit?usp=sharing)
+3. [Lab Work 3](https://docs.google.com/document/d/1g-e5p-b5K7SJwb6DbBUk2w-FTxsW8IVSHL4yPrzotf0/edit?usp=sharing)
 
 
 ### Початок роботи
